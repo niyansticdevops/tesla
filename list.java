@@ -2,3 +2,5 @@
 james
 ximena
 simon
+kunle
+prince
